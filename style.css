@@ -1,0 +1,128 @@
+h1
+{
+    font-size:50px;
+    text-shadow:ivory 3px 3px;
+    margin: 0px;
+}
+.first
+{
+    height:5px;
+    background-color: #008040;
+    margin: 0px;
+}
+body
+{
+   background-image: url(bg.jpg);
+   background-repeat: no-repeat;
+
+    margin:0px;
+}
+.heading
+{
+    background-color:palegreen;
+}
+.font
+{
+    font-size: 20px;
+    font-family:cursive;
+    font-style:italic;"
+}
+#menu
+{
+    border-color:#333;
+    border-style:double ;
+    margin-left:100px;
+     margin-right: 100px;
+     border-radius: 10px;
+    
+}
+#menu:hover{
+    background-color: rgb(155, 243, 177);
+}
+.fontstyle
+{
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+    border-radius:1px 15px 1px 1px;
+}
+.btn
+{
+    font-size: 20px;
+    border-radius: 20px;
+    border-style: inset;
+    font-family:'Fugaz One', cursive; 
+    border-width: 1px 3px 3px 1px;
+}
+.pic:hover
+{
+    box-shadow:#333 10px 10px 10px ;
+    border-style: inset;
+    border-radius: 50px;
+    background-color: lavender;
+    
+}
+.btn:hover
+{
+    border-style: outset;
+    box-shadow: #333 8px 8px 8px;
+    border-style: outset;
+    border-width: 3px 0px 0px 3px;
+   
+}
+
+.update
+{
+    background-color:rgb(255, 255, 255,0.7);
+    margin: 0px;
+}
+
+.size
+{
+    font-size: 25px;
+    font-family:'Fugaz One', cursive;
+    background-color: rgb(245, 245, 166);
+   border-radius:5px 25px 5px 25px  ;
+   padding:15px 10px 10px 15px;
+   text-align: center;
+   border-color: black;
+  box-shadow: #333 5px 5px 5px;
+  border-style: outset;
+  border-width: 1px 2px 2px 1px; 
+  
+}
+.details
+{
+    font-family: ;
+    font-size:larger;
+    padding-left: 100px;
+
+}
+
+.content:hover
+{
+    background-color:rgba(0,0,0,.5);
+    color:white;
+}
+.second
+{
+    margin-top: 18px;
+    margin-bottom: 5px;
+    border-style:dotted none none;
+    color:#333;
+    width:5% ;
+    height: 8px;
+    border-width: 8px;
+}
+.content
+{
+    padding-left: 100px;
+    padding-top:15px;
+    border-radius:25px;
+    
+}
+h2
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family:cursive ;
+}
